@@ -1,7 +1,7 @@
 {
-  "name": "@26l/utils",
+  "name": "@louo/utils",
   "version": "0.0.1",
-  "description": "26l-utils",
+  "description": "louo-utils",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -13,15 +13,15 @@
     "test": "jest"
   },
   "keywords": [
-    "26l-utils"
+    "louo-utils"
   ],
-  "homepage": "https://github.com/silencelog/26l-utils",
+  "homepage": "https://github.com/silencelog/louo-utils",
   "repository": {
     "type": "git",
-    "url": "git@github.com:silencelog/26l-utils.git"
+    "url": "git@github.com:silencelog/louo-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/silencelog/26l-utils/issues"
+    "url": "https://github.com/silencelog/louo-utils/issues"
   },
   "author": "silencelog",
   "license": "MIT",

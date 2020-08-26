@@ -1,2 +1,2 @@
-# template-lib
-js插件开发项目模板
+# louo-utils
+js 工具类合计
